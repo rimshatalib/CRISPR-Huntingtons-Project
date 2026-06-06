@@ -11,7 +11,7 @@ This project focuses on the bioinformatic design and optimization of single-guid
 - **Structural Overlap:** Bioinformatic mapping confirms that the 5' boundary of the **Coding Sequence (HTT CDS)** for huntingtin isoform 2 aligns precisely with **Exon 1**, ensuring that targeted edits will directly disrupt the translated reading frame.
 
 ### Visual Map of the HTT Transcript Locus:
-![HTT Gene Linear Map](linear_map.png)
+![HTT Gene Linear Map](https://github.com/rimshatalib/CRISPR-Huntingtons-Project/blob/main/linear_map.png?raw=true)
 
 ---
 
