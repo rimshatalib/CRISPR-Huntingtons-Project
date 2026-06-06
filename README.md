@@ -10,8 +10,6 @@ This project focuses on the bioinformatic design and optimization of single-guid
 - **Target Coordinate:** The pathogenic trinucleotide repeat region (**CAG repeat expansion**) is located at the 5' end of the transcript, beginning at **coding nucleotide coordinate 52** within **Exon 1**.
 - **Structural Overlap:** Bioinformatic mapping confirms that the 5' boundary of the **Coding Sequence (HTT CDS)** for huntingtin isoform 2 aligns precisely with **Exon 1**, ensuring that targeted edits will directly disrupt the translated reading frame.
 
-### Visual Map of the HTT Transcript Locus:
-![HTT Gene Linear Map](https://github.com/rimshatalib/CRISPR-Huntingtons-Project/blob/main/linear_map.png?raw=true)
 
 ---
 
